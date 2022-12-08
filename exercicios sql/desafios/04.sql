@@ -1,0 +1,1 @@
+SELECT * FROM clientes WHERE id in (SELECT id_cliente FROM compras);

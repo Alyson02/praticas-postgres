@@ -1,0 +1,1 @@
+INSERT INTO compras VALUES(DEFAULT, 4, 5), (DEFAULT, 4, 5);
